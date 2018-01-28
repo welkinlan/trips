@@ -10,7 +10,7 @@
 
 ![img](http://www.hawaii188.com/images/sitepics/maui0.gif)
 
-## To Go
+## To Do
 
 #### Whale Watching
 
@@ -31,6 +31,7 @@
 #### [Haleakala National Park](https://travel.usnews.com/Maui_HI/Things_To_Do/Haleakala_Crater_21307/)
 
 - 哈莱阿卡拉火山（Haleakalā）是一座巨大的休眠盾形火山
+- [Haleakala Crater](https://www.tripadvisor.com/Attraction_Review-g143033-d103255-Reviews-Haleakala_Crater-Haleakala_National_Park_Maui_Hawaii.html)
 - 世界上欣赏最壮丽日出和日落的地方之一
 
 #### [Helicopter Tours](https://travel.usnews.com/Maui_HI/Things_To_Do/Helicopter_Tours_63611/)
@@ -69,7 +70,7 @@
 
 
 
-## To Go
+## To Do
 
 #### [Hawai'i Volcanoes National Park](https://travel.usnews.com/Big_Island_HI/Things_To_Do/Hawaii_Volcanos_National_Park_20786/)
 
@@ -97,7 +98,7 @@
 
 #### ATV TOURS
 
-- Tours typically take you on a 10+ mile drive through private lands with stops on the way at scenic points and historic sites. Close to Hilo you can take an ATV tour at the 220-acre Pa’ani Ranch.
+- Tours typically take you on a 10+ mile drive through private lands with stops on the way at scenic points and historic sites. Close to Hilo you can take an ATV tour at the 220-acre Pa’ani Ranch.map
 
 #### HAMAKUA COAST SCENIC DRIVE
 
@@ -125,6 +126,8 @@
 #### KONA COFFEE
 
 ## Other
+
+#### [Horse riding](https://www.lovebigisland.com/big-island-horseback-riding/)
 
 #### Hapuna Beach
 
@@ -164,8 +167,6 @@
 
 - 生鲜
 
-
-
 > http://www.mafengwo.cn/i/7087241.html
 >
 > https://www.lovebigisland.com/activities-to-do/
@@ -180,7 +181,7 @@
 
 ![img](http://www.hawaii188.com/images/sitepics/kauai0.gif)
 
-## To Go
+## [To Do](https://www.google.com/maps/d/viewer?mid=1Bvrc7eXF13P1iArXXzJdoWo9J5U&ll=22.05336028616083%2C-159.49232604999997&z=11)
 
 ####  纳帕利海岸公园(Napali Coast State Park)
 
@@ -204,6 +205,8 @@
 #### Po ipu海滩
 
 - 是可爱岛最主要的旅游胜地，因其绵长的沙滩而久负盛名，
+
+#### [Kalalau Trail ](https://travel.usnews.com/Kauai_HI/Things_To_Do/Kalalau_Trail_61198/)
 
 ## To Eat
 
