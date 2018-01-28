@@ -1,4 +1,4 @@
-> Very good references
+> ## Very good references
 >
 > http://www.hawaii188.com/html/services/letter1s.html#top1
 >
@@ -119,7 +119,6 @@
 >
 > http://www.mafengwo.cn/jd/150800/gonglve.html
 >
-> 
 
 ------
 
@@ -158,7 +157,7 @@
 
 - 茂宜岛上最美丽最舒适的步行路线
 
-激流峡谷（OHE O GULCH，常被称为七圣池）：
+#### 激流峡谷（OHE O GULCH，常被称为七圣池）：
 
 - 众多小瀑布倾泻而下，奔涌入海前先汇入几个巨大的池塘中，形成绝佳的天然泳池和观景点。
 
@@ -215,16 +214,20 @@
 
 #### JO2 Restaurant 
 
-
-
 > http://bbs.qyer.com/thread-1447818-1.html
 >
 > [Trip advisor](https://www.tripadvisor.com/Attractions-g29218-Activities-Kauai_Hawaii.html#ATTRACTION_SORT_WRAPPER)
 >
 > http://www.hawaii188.com/html/services/letter1s.html
 
-
+------
 
 # Molokai
 
+## TODO
+
+------
+
 # Lanai
+
+## TODO
