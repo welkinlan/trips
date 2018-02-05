@@ -84,8 +84,6 @@
 - 观测到地球上能观测到的90%以上恒星。冬[天山](http://www.mafengwo.cn/travel-scenic-spot/mafengwo/17879.html)上会有积雪，可以让你在同一天感受海边夏季和山顶冬季
 - 4200米 莫纳克亚火山顶观最美的日落需要厚衣服 -5°
 
-####  [“国家地理推荐公路”：Chain of Craters/Crater Rim Drive](http://www.hawaii188.com/html/tourguide/sites/chainofcraters.html)。
-
 ## [Hilo](https://www.lovebigisland.com/hilo/activities/)
 
 #### [Akaka Falls State Park](https://travel.usnews.com/Big_Island_HI/Things_To_Do/Akaka_Falls_State_Park_20634/)
