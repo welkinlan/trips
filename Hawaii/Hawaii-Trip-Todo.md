@@ -6,64 +6,6 @@
 >
 > http://www.hawaii188.com/html/tourguide/tips/t007.html
 
-# [Maui](http://www.hawaii188.com/html/tourguide/sites/s031.html) (>3 days)
-
-![img](http://www.hawaii188.com/images/sitepics/maui0.gif)
-
-## To Do
-
-#### Whale Watching
-
-- 几乎所有的观鲸船都是从著名捕鲸老镇拉海纳-Lahaina码头出发往返，最知名的是Pacific Whale Foundation (808 249 8811)
-- 皮划艇观鲸，坐这个船好处，一是离鲸鱼近，大船比我们距离远一些；二是我们靠近鲸鱼时，船长让我们爬在艇边沿上，我们看到从我们船下游过，那种感觉不比在水面跳跃差。
-- 岸上观赏鲸鱼的好去处，包括Honoapilani公路沿途的观景点，以及俯瞰Honolua海湾的峭壁
-- 拉海纳旧监狱（HALE PA AHAO）：十九世纪捕鲸时代拉海纳的监狱。Hale Pa ahao使用废弃滨水堡垒上的珊瑚礁建成。捕鲸的全盛年代，监狱人满为患，至今仍能看到镣铐与锁链
-
-#### Molokini 环礁浮潜
-
-- 环礁周围有约250种海洋鱼类出没，海水清澈能见度约50米，最佳浮潜时间是清晨。 游客可至茂宜岛Makena State Park / Maalaea 港 /Kihei Boat Ramp 寻找潜水/浮潜服务公司联系出海
-
-#### [Road to Hana](https://travel.usnews.com/Maui_HI/Things_To_Do/Road_to_Hana_54912/)
-
-- 哈纳（Hana）镇位于茂宜岛崎岖不平的东海岸，通往哈纳的著名公路(Road to Hana) 全长约70公里，但车程常需要3小时，因为一路上要经过612个拐弯，54座狭窄的单车道小桥和穿越茂盛的雨林、飞流的瀑布、倾伏的池潭和壮观的海景，由于走过哈纳镇之后的公路年久失修，游客开到目的地后，得原路返回
-- 而大名鼎鼎的州立威纳帕纳帕（Wainapanapa）公园和激流峡谷（Oheo Gulch）只是无数无数亮点中的几个
-
-#### [Haleakala National Park](https://travel.usnews.com/Maui_HI/Things_To_Do/Haleakala_Crater_21307/)
-
-- 哈莱阿卡拉火山（Haleakalā）是一座巨大的休眠盾形火山
-- [Haleakala Crater](https://www.tripadvisor.com/Attraction_Review-g143033-d103255-Reviews-Haleakala_Crater-Haleakala_National_Park_Maui_Hawaii.html)
-- 世界上欣赏最壮丽日出和日落的地方之一
-
-#### [Helicopter Tours](https://travel.usnews.com/Maui_HI/Things_To_Do/Helicopter_Tours_63611/)
-
-#### Kaanapali Beach
-
-#### 伊欧山谷(Io Needle Valley)
-
-- 茂宜岛上最美丽最舒适的步行路线
-
-#### 激流峡谷（OHE O GULCH，常被称为七圣池）：
-
-- 众多小瀑布倾泻而下，奔涌入海前先汇入几个巨大的池塘中，形成绝佳的天然泳池和观景点。
-
-## To Eat 
-
-#### Bubba Gump
-
-#### Mama’s Fish House Restaurant
-
-#### Sansei Seafood Restaurant & Sushi Bar
-
-#### Cafe O’Lei at The Dunes
-
-#### old lahaina luau
-
-> http://bbs.qyer.com/thread-1337745-1.html
->
-> http://travel.sina.com.cn/xiaweiyi_2252-xiangqing-gonglue/
->
-> https://weibo.com/hawaii188?topnav=1&wvr=6&topsug=1&is_hot=1#_rnd1517176535081
-
 # [Big island](http://www.hawaii188.com/html/services/zservice9.html) (>3 days)
 
 ![Map of Hawaii](https://www.worldatlas.com/webimage/countrys/namerica/usstates/hihibig.gif)
@@ -174,6 +116,64 @@
 > https://travel.usnews.com/Big_Island_HI/Things_To_Do/
 >
 > http://www.mafengwo.cn/jd/150800/gonglve.html
+
+#[Maui](http://www.hawaii188.com/html/tourguide/sites/s031.html) (>3 days)
+
+![img](http://www.hawaii188.com/images/sitepics/maui0.gif)
+
+## To Do
+
+#### Whale Watching
+
+- 几乎所有的观鲸船都是从著名捕鲸老镇拉海纳-Lahaina码头出发往返，最知名的是Pacific Whale Foundation (808 249 8811)
+- 皮划艇观鲸，坐这个船好处，一是离鲸鱼近，大船比我们距离远一些；二是我们靠近鲸鱼时，船长让我们爬在艇边沿上，我们看到从我们船下游过，那种感觉不比在水面跳跃差。
+- 岸上观赏鲸鱼的好去处，包括Honoapilani公路沿途的观景点，以及俯瞰Honolua海湾的峭壁
+- 拉海纳旧监狱（HALE PA AHAO）：十九世纪捕鲸时代拉海纳的监狱。Hale Pa ahao使用废弃滨水堡垒上的珊瑚礁建成。捕鲸的全盛年代，监狱人满为患，至今仍能看到镣铐与锁链
+
+#### Molokini 环礁浮潜
+
+- 环礁周围有约250种海洋鱼类出没，海水清澈能见度约50米，最佳浮潜时间是清晨。 游客可至茂宜岛Makena State Park / Maalaea 港 /Kihei Boat Ramp 寻找潜水/浮潜服务公司联系出海
+
+#### [Road to Hana](https://travel.usnews.com/Maui_HI/Things_To_Do/Road_to_Hana_54912/)
+
+- 哈纳（Hana）镇位于茂宜岛崎岖不平的东海岸，通往哈纳的著名公路(Road to Hana) 全长约70公里，但车程常需要3小时，因为一路上要经过612个拐弯，54座狭窄的单车道小桥和穿越茂盛的雨林、飞流的瀑布、倾伏的池潭和壮观的海景，由于走过哈纳镇之后的公路年久失修，游客开到目的地后，得原路返回
+- 而大名鼎鼎的州立威纳帕纳帕（Wainapanapa）公园和激流峡谷（Oheo Gulch）只是无数无数亮点中的几个
+
+#### [Haleakala National Park](https://travel.usnews.com/Maui_HI/Things_To_Do/Haleakala_Crater_21307/)
+
+- 哈莱阿卡拉火山（Haleakalā）是一座巨大的休眠盾形火山
+- [Haleakala Crater](https://www.tripadvisor.com/Attraction_Review-g143033-d103255-Reviews-Haleakala_Crater-Haleakala_National_Park_Maui_Hawaii.html)
+- 世界上欣赏最壮丽日出和日落的地方之一
+
+#### [Helicopter Tours](https://travel.usnews.com/Maui_HI/Things_To_Do/Helicopter_Tours_63611/)
+
+#### Kaanapali Beach
+
+#### 伊欧山谷(Io Needle Valley)
+
+- 茂宜岛上最美丽最舒适的步行路线
+
+#### 激流峡谷（OHE O GULCH，常被称为七圣池）：
+
+- 众多小瀑布倾泻而下，奔涌入海前先汇入几个巨大的池塘中，形成绝佳的天然泳池和观景点。
+
+## To Eat
+
+#### Bubba Gump
+
+#### Mama’s Fish House Restaurant
+
+#### Sansei Seafood Restaurant & Sushi Bar
+
+#### Cafe O’Lei at The Dunes
+
+#### old lahaina luau
+
+> http://bbs.qyer.com/thread-1337745-1.html
+>
+> http://travel.sina.com.cn/xiaweiyi_2252-xiangqing-gonglue/
+>
+> https://weibo.com/hawaii188?topnav=1&wvr=6&topsug=1&is_hot=1#_rnd1517176535081
 
 # [Kauai](http://www.hawaii188.com/html/tourguide/sites/s034.html) (>2 days)
 

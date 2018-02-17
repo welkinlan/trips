@@ -1,22 +1,75 @@
 # Calendar
 
-## Sun   02/18 HNL- ITO
+## Sun   02/18 HNL - Hilo
 
-## Mon 02/19 Big Island
+住宿
 
-## Tue   02/20 Big Island
+## Mon 02/19 Hilo
 
-## Wed 02/21 KOA - OGG
+### Volcano park
+
+Note: 
+
+- 带吃的，水
+
+#### Crater Rim Drive Tour
+
+| **Stop #1** | [Start Your Tour at Kīlauea Visitor Center](https://www.nps.gov/havo/planyourvisit/craterrimtour_kvc.htm) |
+| ----------- | ------------------------------------------------------------ |
+| **Stop #2** | [Jaggar Museum](https://www.nps.gov/havo/planyourvisit/craterrimtour_jaggar.htm) |
+| **Stop #3** | [Kīlauea Overlook](https://www.nps.gov/havo/planyourvisit/craterrimtour_kilaueaovrlk.htm) |
+| **Stop #4** | [Steam Vents, Steaming Bluff and Ha'akulamanu - Sulphur Banks](https://www.nps.gov/havo/planyourvisit/craterrimtour_steam.htm) |
+| **Stop #5** | [Kīlauea Iki Overlook](https://www.nps.gov/havo/planyourvisit/craterrimtour_kilaueaikiovlk.htm) |
+| **Stop #6** | [Nāhuku - Thurston Lava Tube](https://www.nps.gov/havo/planyourvisit/craterrimtour_tube.htm) |
+| **Stop #7** | [Puʻu Puaʻi Overlook](https://www.nps.gov/havo/planyourvisit/craterrimtour_puupuai.htm) |
+| **Stop #8** | [Devastation Trail](https://www.nps.gov/havo/planyourvisit/craterrimtour_devastation2.htm) |
+| **Stop #9** | [Hike to Keanakākoʻi Crater](https://www.nps.gov/havo/planyourvisit/craterrimtour_keanakakoi.htm) |
+
+#### Chain of Craters Road
+
+| **Stop #1**  | [Lua Manu Crater](https://www.nps.gov/havo/planyourvisit/ccr_lua_manu.htm) | 0.5 mi / 0.8 km   | 3.8 mi / 6.1 km   |
+| ------------ | ------------------------------------------------------------ | ----------------- | ----------------- |
+| **Stop #2**  | [Hilina Pali Road](https://www.nps.gov/havo/planyourvisit/ccr_hilina_pali.htm) | 2.3 mi / 3.7 km   | 5.6 mi / 9.0 km   |
+| **Stop #3**  | [Pauahi Crater](https://www.nps.gov/havo/planyourvisit/ccr_pauahi.htm) | 3.3 mi / 5.3 km   | 6.6 mi / 10.6 km  |
+| **Stop #4**  | [Mauna Ulu](https://www.nps.gov/havo/planyourvisit/ccr_mauna_ulu.htm) | 3.7 mi / 6.0 km   | 7.0 mi / 11.3 km  |
+| **Stop #5**  | [Mauna Ulu Flow Across Chain of Craters Road](https://www.nps.gov/havo/planyourvisit/ccr_ulu_flow.htm) | 4.1 mi / 6.6 km   | 7.4 mi / 11.9 km  |
+| **Stop #6**  | [Mau Loa o Mauna Ulu](https://www.nps.gov/havo/planyourvisit/ccr_mau_loa.htm) | 6.4 mi / 10.3 km  | 9.7 mi / 15.6 km  |
+| **Stop #7**  | [Kealakomo Lookout](https://www.nps.gov/havo/planyourvisit/ccr_kealakomo.htm) | 9.9 mo /15.9 km   | 13.2 mi / 21.2 km |
+| **Stop #8**  | [Pu‘u Loa Petroglyphs](https://www.nps.gov/havo/planyourvisit/ccr_puu_loa.htm) | 16.3 mi / 26.2 km | 19.6 mi / 31.5 km |
+| **Stop #9**  | [Hōlei Sea Arch](https://www.nps.gov/havo/planyourvisit/ccr_holei.htm) | 18.8 mi / 30.3 km | 22.1 mi / 35.6 km |
+| **Stop #10** | [End of Chain of Craters Road](https://www.nps.gov/havo/planyourvisit/ccr_end_of_road.htm) | 18.8 mi / 30.3 km | 22.1 mi / 35.6 km |
+
+## Tue   02/20 Hilo & Kona
+
+#### [Manta Ray Night Snorkel](https://www.jacksdivinglocker.com/snorkeling/boat-snorkeling/manta-ray-night-snorkel/)
+
+
+
+## Wed 02/21 Kona & Maui
+
+
 
 ## Thu   02/22 Maui
 
+
+
+
+
 ## Fri      02/23 Maui
 
-## Sat     02/24 OGG - LIH
+
+
+
+
+## Sat     02/24 Maui & Kauai
+
+
 
 ## Sun    02/25 Kauai
 
-## Mon  02/26 LIH- HNL
+
+
+## Mon  02/26 Kauai - HNL
 
 
 
