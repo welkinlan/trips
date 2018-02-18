@@ -2,7 +2,7 @@
 
 ## Sun   02/18 HNL - Hilo
 
-住宿
+Check-in 
 
 ## Mon 02/19 Hilo
 
@@ -12,7 +12,7 @@ Note:
 
 - 带吃的，水
 
-#### Crater Rim Drive Tour
+##### Crater Rim Drive Tour
 
 | **Stop #1** | [Start Your Tour at Kīlauea Visitor Center](https://www.nps.gov/havo/planyourvisit/craterrimtour_kvc.htm) |
 | ----------- | ------------------------------------------------------------ |
@@ -25,7 +25,7 @@ Note:
 | **Stop #8** | [Devastation Trail](https://www.nps.gov/havo/planyourvisit/craterrimtour_devastation2.htm) |
 | **Stop #9** | [Hike to Keanakākoʻi Crater](https://www.nps.gov/havo/planyourvisit/craterrimtour_keanakakoi.htm) |
 
-#### Chain of Craters Road
+##### Chain of Craters Road
 
 | **Stop #1**  | [Lua Manu Crater](https://www.nps.gov/havo/planyourvisit/ccr_lua_manu.htm) | 0.5 mi / 0.8 km   | 3.8 mi / 6.1 km   |
 | ------------ | ------------------------------------------------------------ | ----------------- | ----------------- |
@@ -39,27 +39,37 @@ Note:
 | **Stop #9**  | [Hōlei Sea Arch](https://www.nps.gov/havo/planyourvisit/ccr_holei.htm) | 18.8 mi / 30.3 km | 22.1 mi / 35.6 km |
 | **Stop #10** | [End of Chain of Craters Road](https://www.nps.gov/havo/planyourvisit/ccr_end_of_road.htm) | 18.8 mi / 30.3 km | 22.1 mi / 35.6 km |
 
+#### MAUNA KEA
+
 ## Tue   02/20 Hilo & Kona
 
-#### [Manta Ray Night Snorkel](https://www.jacksdivinglocker.com/snorkeling/boat-snorkeling/manta-ray-night-snorkel/)
-
-
+- Farmers Market 
+- ʻAkaka Falls State Park
+- Waipiʻo Valley Lookout
+- Punalu‘U Beach
+- Manta Ray Night Snorkel
 
 ## Wed 02/21 Kona & Maui
 
+#### Kona 
 
+- Random walk
+
+#### Maui
+
+- 4 - 6 pm: WHALEWATCH RAFT
 
 ## Thu   02/22 Maui
 
-
-
-
+- ROAD TO HANA
+- Haleakala National Park
 
 ## Fri      02/23 Maui
 
+- Mikini
 
 
-
+- 5:15-9:15 Eat
 
 ## Sat     02/24 Maui & Kauai
 
