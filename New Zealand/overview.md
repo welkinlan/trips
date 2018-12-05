@@ -2,81 +2,74 @@
 * [x] glacier
 * [x] skydiving
 * [x] kayak
-* [ ] stargazing
+* [x] stargazing
 * [x] horse riding
 * [ ] 温泉
-* [ ] Forest Exploring
-* [ ] Rafting
+* [x] Hiking / Forest Exploring
 * [ ] Bicycle
-* [ ] Trail
 
 # COULD DO
-* [ ] 草泥马
+* [x] 草泥马
+* [ ] Canyoning
+* [ ] Rafting 
 * [ ] zipline
 * [ ] jetboat
 * [ ] bungy
 * [ ] wine-tasting
 * [ ] 热气球
+* [ ] Drive airplane
 
 # **South Island**
-## Day 1 (12/22) - Fly from Auckland to Nelson
+## Day 1 (12/22 SAT) - AKL, CHC
 
-## Day 2 (12/23) - Nelson / Abel Tasman National Park
-- Abel Tasman National Park
-    - [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
-    - [Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
-    - Wainui Falls Track
+## Day 2 (12/23 SUN) - CHC, Lake Tekapo
+- CHC
+- Caonima
+- Lake Tekapo
+    - Tekapo Springs
+- STARGAZE
 
-## Day 3 (12/24) - Hokitika
-- Hokitika Gorge
-  
-## Day 4 (12/25) - Glaciers
-- Franz Josef Glacier
-- Fox Glacier
+## Day 3 (12/24 MON) - Lake Tekapo, Wanaka
+- MT COOK
+    - Hooker Valley Track
 
-## Day 5 (12/26) - Wanaka
-- Haast Pass
+## Day 4 (12/25 TUE ***CHRISTMAS**) - Wanaka, QT
 - Mount Aspiring National Park
-- [Rob Roy Glacier Track](https://www.newzealand.com/us/feature/rob-roy-glacier-track/): 3-4 hrs
+	- [Rob Roy Glacier Track](https://www.newzealand.com/us/feature/rob-roy-glacier-track/): 3-4 hrs
+- [_Lake Wanaka Paddle_](https://www.newzealand.com/us/plan/business/wanaka-kayaks-sup-and-sail/)
+- [_Wanaka Bike Tours_](https://www.newzealand.com/us/plan/business/wanaka-bike-tours/)
+- [_WildWire Wanaka_](https://www.wildwire.co.nz/): 5-7 hrs
+- [_Siberia Experience_](http://www.siberiaexperience.co.nz/):  5-7 hrs
+- [_Eco Wanaka Adventures_](https://www.newzealand.com/us/plan/business/eco-wanaka-adventures-lake-cruise-and-island-nature-walk/)
 
-## Day 6 (12/27)- [Wanaka](https://www.newzealand.com/us/feature/top-experiences-in-wanaka/)
-- [Lake Wanaka Paddle](https://www.newzealand.com/us/plan/business/wanaka-kayaks-sup-and-sail/)
-- [Wanaka Bike Tours](https://www.newzealand.com/us/plan/business/wanaka-bike-tours/)
-- [WildWire Wanaka](https://www.wildwire.co.nz/): 5-7 hrs
-- [Siberia Experience](http://www.siberiaexperience.co.nz/):  5-7 hrs
-- [Skydive Wanaka](http://www.skydivewanaka.com/)
-- [Eco Wanaka Adventures](https://www.newzealand.com/us/plan/business/eco-wanaka-adventures-lake-cruise-and-island-nature-walk/)
+## Day 5 (12/26 WED) - QT, QT
+- Milford Sound
 
-## Day 7 (12/28) - Queenstown
+## Day 6 (12/27 THU) - QT, QT
 - Skyline Gondola and Restaurant
 - Queenstown trail
 - Shotover River Jet Boat
 - Arrowtown
 - The Crown Range
-  
-## Day 8 (12/29) - Milford Sound
 
-## Day 9 (12/30) - Glenorchy
-- [Horse riding](https://www.dartriver.co.nz/horse-riding/)
-- Jet boating
-- Middle Earth - Movie Magic - Lord of the Rings
+## Day 7 (12/28 FRI)- QT, Fox Glacier
+- Glenorchy
+    - Dart River Adventures:
+        - [Horse riding](https://www.dartriver.co.nz/horse-riding/)
+        - Jet boating
+    - Lord of the Rings
 
-## Day 10 (12/31) - Christchurch
-- 
-## Day 11 (1/1) - Return from Christchurchto Auckland Airport
+## Day 8 (12/29 SAT) -Fox Glacier, Greymouth
+- Ice Climbing
+- Hokitika Gorge
 
+## Day 9 (12/30 SUN) - Greymouth, Nelson
+- ?
 
-# Other
+## Day 10 (12/31 MON) - Nelson, Nelson
+- Abel Tasman National Park
+    - [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
+    - [Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
+    - Wainui Falls Track
 
-## Christchurch
-- Hooker Valley Track
-- Arthur's Pass
-- Hanmer Springs
-- Tekapo Springs and Hot Pools
-
-# **North Island**
-
-## Rotorua
-- Maori
-- Geysers, boiling mud pools & huge volcanic craters
-## Coromandel
+## Day 11 (1/1 TUE) - NSN, AKL
