@@ -46,9 +46,9 @@
 - [ ] Milford Sound
 
 ## Day 6 (12/27 THU) - QT, QT
-- [] Skyline Gondola and Restaurant
+- [ ] Skyline Gondola and Restaurant
 - Queenstown trail
-- [] Shotover River Jet Boat
+- [ ] Shotover River Jet Boat
 - Arrowtown
 - The Crown Range
 
@@ -68,7 +68,7 @@
 ## Day 10 (12/31 MON) - Nelson, Nelson
 - Abel Tasman National Park
     - [x] [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
-    - [] [Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
+    - [ ] [Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
     - Wainui Falls Track
 
 ## Day 11 (1/1 TUE) - NSN, AKL
