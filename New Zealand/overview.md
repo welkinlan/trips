@@ -43,7 +43,7 @@
 - [_Eco Wanaka Adventures_](https://www.newzealand.com/us/plan/business/eco-wanaka-adventures-lake-cruise-and-island-nature-walk/)
 
 ## Day 5 (12/26 WED) - QT, QT
-- [ ] Milford Sound
+- [x] 11:50 am 到 12:45 - 4:45 pm 玩 Milford Sound
 
 ## Day 6 (12/27 THU) - QT, QT
 - [ ] Skyline Gondola and Restaurant
