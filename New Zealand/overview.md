@@ -43,31 +43,32 @@
 - [_Eco Wanaka Adventures_](https://www.newzealand.com/us/plan/business/eco-wanaka-adventures-lake-cruise-and-island-nature-walk/)
 
 ## Day 5 (12/26 WED) - QT, QT
-- [x] 11:50 am 到 12:45 - 4:45 pm 玩 Milford Sound
+- [x] 11:50 am - 4:45 pm: Milford Sound
 
 ## Day 6 (12/27 THU) - QT, QT
 - [ ] Skyline Gondola and Restaurant
 - Queenstown trail
-- [ ] Shotover River Jet Boat
+- Shotover River Jet Boat
 - Arrowtown
 - The Crown Range
 
 ## Day 7 (12/28 FRI)- QT, Fox Glacier
 - Glenorchy
-    - [ ] Dart River Adventures:
+    - [x] 10:15 am - 1:00 pm: Dart River Adventures:
         - [Horse riding](https://www.dartriver.co.nz/horse-riding/)
         - Jet boating
     - Lord of the Rings
 
 ## Day 8 (12/29 SAT) -Fox Glacier, Greymouth
-- [x] Ice Climbing
+- [x] 6:50 am - 11:00 am: Glacier Hiking
+- Hokitika Gorge
 
 ## Day 9 (12/30 SUN) - Greymouth, Nelson
-- Hokitika Gorge
+
 
 ## Day 10 (12/31 MON) - Nelson, Nelson
 - Abel Tasman National Park
-    - [x] [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
+    - [x] 9:00 am - 12:00 pm [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
     - [ ] [Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
     - Wainui Falls Track
 
