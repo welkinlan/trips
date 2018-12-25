@@ -4,71 +4,61 @@
 * [x] kayak
 * [x] stargazing
 * [x] horse riding
-* [ ] 温泉
 * [x] Hiking / Forest Exploring
-* [ ] Bicycle
 * [x] 草泥马
+* [ ] 温泉
+* [ ] Bicycle
+* [ ] Winery
+* [ ] Jetboat
 
 # COULD DO
 * [ ] Canyoning
 * [ ] Rafting 
-* [ ] zipline
-* [ ] jetboat
-* [ ] bungy
-* [ ] wine-tasting
+* [ ] Zipline
+* [ ] Bungy
 * [ ] 热气球
-* [ ] Drive airplane
 
 # **South Island**
 ## Day 1 (12/22 SAT) - AKL, CHC
 
 ## Day 2 (12/23 SUN) - CHC, Lake Tekapo
-- 12:00 pm - 1:00 pm Shamarra Alpacas
-- Lake Tekapo
-    - Tekapo Springs
-- 0:0 am - 2:00 am Mt John Stargaze
+- [x] 2:00 pm - 3:00 pm Shamarra Alpacas
+- [x] 0:0 am - 2:00 am Mt John Stargaze
 
 ## Day 3 (12/24 MON) - Lake Tekapo, Wanaka
 - MT COOK
-    - Hooker Valley Track
+    - [x] Good sheperd
+    - [ ] Tekapo Springs
+    - [x] Hooker Valley Track
 
 ## Day 4 (12/25 TUE ***CHRISTMAS**) - Wanaka, QT
-- Mount Aspiring National Park
-	- [Rob Roy Glacier Track](https://www.newzealand.com/us/feature/rob-roy-glacier-track/): 3-4 hrs
-- [_Lake Wanaka Paddle_](https://www.newzealand.com/us/plan/business/wanaka-kayaks-sup-and-sail/)
-- [_Wanaka Bike Tours_](https://www.newzealand.com/us/plan/business/wanaka-bike-tours/)
-- [_WildWire Wanaka_](https://www.wildwire.co.nz/): 5-7 hrs
-- [_Siberia Experience_](http://www.siberiaexperience.co.nz/):  5-7 hrs
-- [_Eco Wanaka Adventures_](https://www.newzealand.com/us/plan/business/eco-wanaka-adventures-lake-cruise-and-island-nature-walk/)
+- [x] Arrowtown
+- [x] The Crown Range
+- [ ] Skyline Gondola
+- [ ] Queenstown trail
 
 ## Day 5 (12/26 WED) - QT, QT
 - 11:50 am - 4:45 pm: Milford Sound
 
 ## Day 6 (12/27 THU) - QT, QT
-- Skyline Gondola and Restaurant
-- Queenstown trail
-- Shotover River Jet Boat
-- Arrowtown
-- The Crown Range
+- [ ] Winery
+- [x] 2-7 pm WildWire Wanaka: 5 hrs
 
 ## Day 7 (12/28 FRI)- QT, Fox Glacier
-- Glenorchy
-    - 10:15 am - 1:00 pm: Dart River Adventures:
-        - [Horse riding](https://www.dartriver.co.nz/horse-riding/)
-        - Jet boating
-    - Lord of the Rings
+- [x] 10:15 am - 1:00 pm: Horse riding
+- [ ] Shotover River Jet Boat
 
 ## Day 8 (12/29 SAT) -Fox Glacier, Greymouth
-- 6:50 am - 11:00 am: Glacier Hiking
-- Hokitika Gorge
+- [ ] 06:50 am - 11:00 am: Glacier Hiking
+- [ ] Hokitika Gorge
 
 ## Day 9 (12/30 SUN) - Greymouth, Nelson
-- TODO
+- [ ]
 
 ## Day 10 (12/31 MON) - Nelson, Nelson
 - Abel Tasman National Park
-    - 9:00 am - 12:00 pm [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
-    - [Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
+    - [ ] 9:00 am - 12:00 pm [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
+    - [ ][Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
     - Wainui Falls Track
 
 ## Day 11 (1/1 TUE) - NSN, AKL
