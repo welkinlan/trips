@@ -33,7 +33,7 @@
 
 ## Day 4 (12/25 TUE ***CHRISTMAS**) - Wanaka, QT
 - [x] Arrowtown
-- [x] The Crown Range
+- [x] Queenstown downtown
 - [ ] Skyline Gondola
 - [ ] Queenstown trail
 
@@ -43,22 +43,26 @@
 ## Day 6 (12/27 THU) - QT, QT
 - [ ] Winery
 - [x] 2-7 pm WildWire Wanaka: 5 hrs
+- [x] The Crown Range
 
 ## Day 7 (12/28 FRI)- QT, Fox Glacier
 - [x] 10:15 am - 1:00 pm: Horse riding
+- [x] Glenorchy
 - [ ] Shotover River Jet Boat
 
 ## Day 8 (12/29 SAT) -Fox Glacier, Greymouth
 - [ ] 06:50 am - 11:00 am: Glacier Hiking
 - [ ] Hokitika Gorge
+- [ ] Greymouth historic site
 
 ## Day 9 (12/30 SUN) - Greymouth, Nelson
-- [ ]
+- [ ] Rabbit island
+- [ ] Nelson downtown
 
 ## Day 10 (12/31 MON) - Nelson, Nelson
-- Abel Tasman National Park
-    - [ ] 9:00 am - 12:00 pm [Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
-    - [ ][Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
-    - Wainui Falls Track
+- [x] 9:00 am - 12:00 pm [Abel Tasman Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
+- [ ][Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
+- Wainui Falls Track
+- [x] Abel Tasman National Park
 
 ## Day 11 (1/1 TUE) - NSN, AKL
