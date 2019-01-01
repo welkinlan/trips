@@ -38,7 +38,7 @@
 - [ ] Queenstown trail
 
 ## Day 5 (12/26 WED) - QT, QT
-- 11:50 am - 4:45 pm: Milford Sound
+- [x] 11:50 am - 4:45 pm: Milford Sound Cruise and Kayak
 
 ## Day 6 (12/27 THU) - QT, QT
 - [ ] Winery
