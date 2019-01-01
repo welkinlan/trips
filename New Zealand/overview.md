@@ -61,8 +61,8 @@
 
 ## Day 10 (12/31 MON) - Nelson, Nelson
 - [x] 9:00 am - 12:00 pm [Abel Tasman Sky dive](https://www.skydive.co.nz/shop-now/abel-tasman-epic/)
-- [ ][Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
-- Wainui Falls Track
+- [ ] [Sea Kayak](https://www.abeltasman.co.nz/a-day/sea-kayak/)
+- [ ] Wainui Falls Track
 - [x] Abel Tasman National Park
 
 ## Day 11 (1/1 TUE) - NSN, AKL
