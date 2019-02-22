@@ -1,16 +1,6 @@
-> ## Very good references
->
-> http://www.hawaii188.com/html/services/letter1s.html#top1
->
-> http://www.hawaii188.com/html/tourguide/guide_island_3.html
->
-> http://www.hawaii188.com/html/tourguide/tips/t007.html
+# Big island (>3 days)
 
-# [Big island](http://www.hawaii188.com/html/services/zservice9.html) (>3 days)
-
-![Map of Hawaii](https://www.worldatlas.com/webimage/countrys/namerica/usstates/hihibig.gif)
-
-
+![Map of Big Island](https://www.worldatlas.com/webimage/countrys/namerica/usstates/hihibig.gif)
 
 ## To Do
 
@@ -117,10 +107,8 @@
 >
 > http://www.mafengwo.cn/jd/150800/gonglve.html
 
-#[Maui](http://www.hawaii188.com/html/tourguide/sites/s031.html) (>3 days)
-
-![img](http://www.hawaii188.com/images/sitepics/maui0.gif)
-
+# Maui (>3 days)
+![Map of Maui](https://i.pinimg.com/originals/d4/f0/e1/d4f0e147daa21487bba70235bc393634.gif)
 ## To Do
 
 #### Whale Watching
@@ -175,9 +163,9 @@
 >
 > https://weibo.com/hawaii188?topnav=1&wvr=6&topsug=1&is_hot=1#_rnd1517176535081
 
-# [Kauai](http://www.hawaii188.com/html/tourguide/sites/s034.html) (>2 days)
+# Kauai (>2 days)
 
-![img](http://www.hawaii188.com/images/sitepics/kauai0.gif)
+![Kauai map](https://science-lakes.com/images/printable-road-map-of-kauai/printable-road-map-of-kauai-20.gif)
 
 ## [To Do](https://www.google.com/maps/d/viewer?mid=1Bvrc7eXF13P1iArXXzJdoWo9J5U&ll=22.05336028616083%2C-159.49232604999997&z=11)
 
